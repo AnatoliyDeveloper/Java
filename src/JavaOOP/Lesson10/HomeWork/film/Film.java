@@ -9,7 +9,6 @@ import java.util.List;
  */
 public class Film implements Serializable {
 
-
     private static final long serialVersionUID = -1602696609623777709L;
 
     private String title;
